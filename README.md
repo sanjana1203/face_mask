@@ -3,7 +3,7 @@ Face Mask Detection is a Machine Learning project that automatically identifies 
 
 Libarary Used 
 sklearn used this for to train and test data and split according to the needs
-numpy used it for the numeric calculation
+  numpy used it  for the numeric calculation
 tensorflow used this for Sequential ,Conv2D, MaxPooling2D, Flatten, Dense,to_categorical
 
 
