@@ -20,7 +20,7 @@ The model uses **transfer learning** to achieve high accuracy without training a
 - Detects faces and classifies mask status
 - Outputs prediction with confidence score
 
-## 🛠️ Technologies & Libraries Used
+## Technologies & Libraries Used
 
 - Python  
 - TensorFlow / Keras  
